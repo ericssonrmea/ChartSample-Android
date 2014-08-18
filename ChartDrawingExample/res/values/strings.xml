@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">ChartDrawingExample</string>
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="izmir">izmir</string>
 
 </resources>
